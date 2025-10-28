@@ -1,7 +1,3 @@
-
-# code
-
-
 from docx import Document
 from datetime import datetime
 import os
